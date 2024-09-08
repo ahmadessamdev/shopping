@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on التسوق الإلكتروني</title>
+    <link>//localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolios on التسوق الإلكتروني</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>منتج رقم 2</title>
+      <link>//localhost:1313/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work2/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج رقم 3</title>
+      <link>//localhost:1313/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work3/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج بدون صورة</title>
+      <link>//localhost:1313/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work4/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج رقم 5</title>
+      <link>//localhost:1313/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work5/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج رقم 6</title>
+      <link>//localhost:1313/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work6/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج رقم 7</title>
+      <link>//localhost:1313/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work7/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج رقم 8</title>
+      <link>//localhost:1313/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work8/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج بصورة</title>
+      <link>//localhost:1313/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work9/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج بصورة</title>
+      <link>//localhost:1313/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work10/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج بصورة</title>
+      <link>//localhost:1313/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work11/</guid>
+      <description>&lt;p&gt;منتج مميز مكون من مجموعة من الأوراق مجتمعة معا لتكون شكل فريد من نوعه ومميز ومتميز. لا تنس أن تكون دائما في أوج هذا التميز لتستطيع أن تكون فريدا من نوعك.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>منتج رقم 1</title>
+      <link>//localhost:1313/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>//localhost:1313/portfolio/work1/</guid>
+      <description>ما هو &amp;ldquo;لوريم إيبسوم&amp;rdquo; ؟ لوريم إيبسوم(Lorem Ipsum) هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ القرن الخامس عشر عندما قامت مطبعة مجهولة برص مجموعة من الأحرف بشكل عشوائي أخذتها من نص، لتكوّن كتيّب بمثابة دليل أو مرجع شكلي لهذه الأحرف. خمسة قرون من الزمن لم تقضي على هذا النص، بل انه حتى صار مستخدماً وبشكله الأصلي في الطباعة والتنضيد الإلكتروني.</description>
+    </item>
+  </channel>
+</rss>
